@@ -1,8 +1,6 @@
 # things-to-learn
 Things I want to learn.
 
----
-
 ## Languages
 ### Programming
 - Python
@@ -170,3 +168,47 @@ Things I want to learn.
 
 #### Chaos Engineering
 - Chaoskube
+
+## Other
+- Certmanager
+- Certbot
+- pfSense
+- Untangle
+- Project Tanzu/Pacific
+- Ubiquiti
+- freeIPA
+- Reverse Proxy
+- vSAN
+- Network Policies
+-  BPF
+- Confluence/JIRA
+- Pritunl
+- K9s
+- Kubectx
+- Hubble
+- OpenFaas
+- K3c
+- K3d
+- Inlets
+- Octant
+- Tus
+- Pydio
+- Slack
+- AD/LDAP
+- OpenID
+- Twistlock
+- SAML
+- Ghost (CMS)
+- GoHugo
+- Wiki.js
+- Taiga.io
+- HAProxy-WI
+- GitBook
+- Azure DevOps
+- Tableplus
+- Mailcow
+- Mailu
+- Mailgun
+- TrueNAS
+- Terraform Cloud
+- HashiCorp Nomad
